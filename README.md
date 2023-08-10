@@ -1,2 +1,2 @@
 # Quallcomm-Adreno-Driver
-ONLY REPOSITORY OF DRIVER GPU
+Only repository of Adreno Drivers
